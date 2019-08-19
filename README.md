@@ -10,3 +10,5 @@ This program was created using Processing (https://processing.org/).
 **Assignment Grade:** A+ (94%)
 
 **Paper Grade:**      A+ (92% Overall)
+
+![alt text](https://i.ibb.co/wWJYXvQ/partic.jpg "Screenshot of program.")
